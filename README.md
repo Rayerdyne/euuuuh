@@ -32,7 +32,16 @@ Do - Do - Sol - Do - Mi
 
 - Déplacer des notes d'une octave (vu que ça ne change rien) et si on tombe sur deux fois la même, et bien on en garde qu'une
 
-- À la fin, il ne reste que 3 notes, et il faut trouver la manière de les mettre en pile de tierces (voir renversements)
+- À la fin, il ne reste que 3 notes, et il faut trouver la manière de les mettre en pile de tierces (voir renversements). Du coup, on a normalemnt deux intervalles qui sont des tierces, et une quarte: la note fondamentale est celle "au dessus" de la quarte, de sorte qu'il reste les deux autres intervalles.
+
+`Exemple:` Fa - Do - Fa - La b - Do
+
+| action | accord |
+| ------ | ------ |
+| Rabaisser le deuxième Do d'une octave: il revient sur le premier, on en garde qu'un | Fa - Do - Fa - La b |
+| Rabaisser le La b d'une octave | Fa - La b - Do - Fa |
+| Rabaisser le Do du dessus | Fa - La b - Do |
+Intervalles: Fa - La b: tierce, La b - Do: tierce, Do - Fa: quarte
 
 ### L'accord de 7ième
 
