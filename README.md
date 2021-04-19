@@ -20,10 +20,22 @@ Par contre, en pratique quand on me demande un accord je le fait dans l'ordre: j
 
 Oui, mais il faut garder à l'esprit que la quinte est "plus importante" que la tierce.
 
-Quand on remplit un accord, on rajoute des notes parmi celles-là.
+Quand on remplit un accord, on rajoute des notes:
+
+Do - Mi - Sol - Do - Mi - Sol - Do
+
+Mais du coup, ça fait beaucoup. Donc on les met pas toutes:
+
+Do - Do - Sol - Do - Mi  
+
+> Quel accord est ceci ?
+
+- Déplacer des notes d'une octave (vu que ça ne change rien) et si on tombe sur deux fois la même, et bien on en garde qu'une
+
+- À la fin, il ne reste que 3 notes, et il faut trouver la manière de les mettre en pile de tierces (voir renversements)
 
 ### L'accord de 7ième
 
 Cet accord n'est pas un accord normal, mais on le verra très souvent.
 
-C'est un accord normal, avec une septième. La note supplémentaire se trouve donc une tierce (mineure ou majeure, souvent on respectera l'armure déjà présente)
+C'est un accord "normal", avec une septième. La note supplémentaire se trouve donc une tierce (mineure ou majeure, souvent on respectera l'armure déjà présente)
