@@ -41,6 +41,7 @@ Do - Do - Sol - Do - Mi
 | Rabaisser le deuxième Do d'une octave: il revient sur le premier, on en garde qu'un | Fa - Do - Fa - La b |
 | Rabaisser le La b d'une octave | Fa - La b - Do - Fa |
 | Rabaisser le Do du dessus | Fa - La b - Do |
+
 Intervalles: Fa - La b: tierce, La b - Do: tierce, Do - Fa: quarte
 
 ### L'accord de 7ième
