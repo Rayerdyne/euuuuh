@@ -49,3 +49,5 @@ Intervalles: Fa - La b: tierce, La b - Do: tierce, Do - Fa: quarte
 Cet accord n'est pas un accord normal, mais on le verra très souvent.
 
 C'est un accord "normal", avec une septième. La note supplémentaire se trouve donc une tierce (mineure ou majeure, souvent on respectera l'armure déjà présente)
+
+Aussi, il sera le plus souvent construit sur la dominante de la tonalité (et se réoudra sur la tonique -> mouvement V / I)
